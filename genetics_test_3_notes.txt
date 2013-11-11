@@ -1,0 +1,49 @@
+quantitive trait loci (QTL) control continuous traits' expression
+
+Ratios
+	fruit shape (15:1)
+		any dominance causes heart shaped fruit
+	coat color in mice (9:4:3)
+		C controls the availability of B and A to be expressed
+		9 A-C- agouti
+		3 A-cc white
+		3 aaC- black
+		1 aacc white
+	summer squash fruit color (12:3:1)
+		W acts as inhibitor preventing white->green. Dominant Y causes green->yellow
+		9 W-Y- white
+		3 W-yy white
+		3 wwY- yellow
+		1 wwyy green
+	
+
+Bacteria DNA transfer
+	1. Conjugation- transfer of plasmid from one cell to another directly
+	2. Transformation- extracellular dna exchanges with receipients
+	3. transduction- bacteriophages mediate transfer of dna from one cell to anotehr
+	transfer is one directional
+
+Donor F+. Receipt F-
+
+Lederburd/Tatum's experiment
+strain A had xx--- amino acids (2/5)
+strain B had --xxx amino acids (3/5)
+plates A, B, and A/B mixture. Needed recombination to survive
+
+1. F plamis needs an orgin and an F-pilus for transfer. 
+2. F+ connects with F- cell and use Rolling Circle Replication.
+3. DNA stays double stranded for donor and is made into double stranded in receipient 
+
+Hfr (high frequency recombination) strains
+recombination between plasmid and chromosome
+This can cause entire  chromosomes to be replicated using rolling circle into a F- cell
+
+
+Davis's experiment
+U tube + filter + 2 bacteria. Didn't plate. Need cell-to-cell for conjugation
+
+	
+
+
+
+SNP, RFLP, STR
