@@ -1,5 +1,7 @@
 quantitive trait loci (QTL) control continuous traits' expression
 
+1 mu = 43kb in neurospora
+
 Ratios
 	fruit shape (15:1)
 		any dominance causes heart shaped fruit
@@ -15,13 +17,17 @@ Ratios
 		3 W-yy white
 		3 wwY- yellow
 		1 wwyy green
+	duplicate decessive epistasis (9:7)
+	dominant (9:3:3:1)
 	
+	
+
 
 Bacteria DNA transfer
 	1. Conjugation- transfer of plasmid from one cell to another directly
 	2. Transformation- extracellular dna exchanges with receipients
 	3. transduction- bacteriophages mediate transfer of dna from one cell to anotehr
-	transfer is one directional
+*transfer is one directional
 
 Donor F+. Receipt F-
 
@@ -35,15 +41,26 @@ plates A, B, and A/B mixture. Needed recombination to survive
 3. DNA stays double stranded for donor and is made into double stranded in receipient 
 
 Hfr (high frequency recombination) strains
-recombination between plasmid and chromosome
-This can cause entire  chromosomes to be replicated using rolling circle into a F- cell
+	recombination between plasmid and chromosome
+	This can cause entire  chromosomes to be replicated using rolling circle into a F- cell
 
 
 Davis's experiment
 U tube + filter + 2 bacteria. Didn't plate. Need cell-to-cell for conjugation
 
-	
+transconjugants
 
+making competent cells
+	chemical transformation (cheap, most popular)
+		CaCl2 then heat shock 92 centigrade for 30s
+		Cl goes into cell causing it to swell and open cellular pores
+	electroporation (expensive)
+		strong electric pulse makes holes in membrane
 
 
 SNP, RFLP, STR
+????
+
+
+
+
