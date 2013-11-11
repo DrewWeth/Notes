@@ -1,5 +1,3 @@
-quantitive trait loci (QTL) control continuous traits' expression
-
 1 mu = 43kb in neurospora
 
 Ratios
@@ -18,7 +16,13 @@ Ratios
 		3 wwY- yellow
 		1 wwyy green
 	duplicate decessive epistasis (9:7)
+		white compound -C-> white compound 2 -P-> purple compound
+		9 C-P- purple
+		3 C-pp white
+		3 ccP- white
+		1 ccpp white
 	dominant (9:3:3:1)
+		
 	
 	
 
@@ -58,8 +62,23 @@ making competent cells
 		strong electric pulse makes holes in membrane
 
 
+
 SNP, RFLP, STR
-????
+
+SNP (single nucleotide polymorphism)
+	SNP causes Restriction Fragment Length polymorphism (RFLP)
+quantitive trait loci (qtl) control continuous traits' expression
+short tandem repeat (STR) (microsatellite)
+	2-6bp
+	use pcr to find the entirety of them 
+VNTR (variable number tandem repeat) (minisatellite
+	7-100bp
+	RE and southern blotting
+
+tandem repeats are used for forensics
+
+p is prokaryotic element... (ok...)
+
 
 
 
