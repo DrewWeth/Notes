@@ -1,0 +1,15 @@
+boolean logic rules
+T, F, J-K flip flop tables/rules
+
+
+
+review
+PLA, ROM, PAL
+moore and mealey machine
+2's complement for negative numbers
+
+
+HELP
+----
+problem 6
+

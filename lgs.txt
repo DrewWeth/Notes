@@ -1,0 +1,15 @@
+November 22, 2013
+-----------------
+LacZ encodes for...
+B-galactosidase
+
+Lactose is a disaccharide made of galactose and glucose
+true
+
+After binding to lactose, LacI loses its ability to bind to lacO
+false, after binding to allolactose
+
+snRNA can only be found in eukaryotes
+true, (sn= small nuclear)
+
+
